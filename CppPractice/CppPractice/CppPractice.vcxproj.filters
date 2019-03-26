@@ -59,5 +59,8 @@
     <ClInclude Include="unique_morse_code_words.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="merge_two_binary_trees.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

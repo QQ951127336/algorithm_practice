@@ -167,6 +167,7 @@
     <ClInclude Include="flippingAnImage.h" />
     <ClInclude Include="jewels_and_stones.h" />
     <ClInclude Include="leftsum.h" />
+    <ClInclude Include="merge_two_binary_trees.h" />
     <ClInclude Include="reverse_integer.h" />
     <ClInclude Include="squares_of_sorted_array.h" />
     <ClInclude Include="to_lower_case.h" />
