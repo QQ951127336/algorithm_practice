@@ -169,6 +169,7 @@
     <ClInclude Include="leftsum.h" />
     <ClInclude Include="merge_two_binary_trees.h" />
     <ClInclude Include="reverse_integer.h" />
+    <ClInclude Include="sort_array_by_party_ii.h" />
     <ClInclude Include="squares_of_sorted_array.h" />
     <ClInclude Include="to_lower_case.h" />
     <ClInclude Include="unique_morse_code_words.h" />
