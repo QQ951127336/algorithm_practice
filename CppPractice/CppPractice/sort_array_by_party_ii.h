@@ -1,5 +1,5 @@
 #include<vector>
-
+#include<math.h>
 using namespace std;
 
 class Solution {
@@ -14,6 +14,8 @@ public:
 				_single.push_back(A[i]);
 			}
 		}
+		string x;
+		abs*
 		vector<int> result;
 		int doubleIndex = 0, singleIndex = 0;
 		for (int i = 0; i < A.size(); i++) {
