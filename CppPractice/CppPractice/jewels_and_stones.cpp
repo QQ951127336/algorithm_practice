@@ -1,4 +1,4 @@
-#include <string>
+
 #include <map>
 #include "jewels_and_stones.h"
 using namespace std;

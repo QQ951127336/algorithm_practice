@@ -84,11 +84,11 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
-      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
     </ClCompile>
@@ -179,6 +179,7 @@
     <ClCompile Include="delete_colimns_to_make_sorted.cpp" />
     <ClCompile Include="di_string_match.cpp" />
     <ClCompile Include="find_common_characters.cpp" />
+    <ClCompile Include="groups_of_special_equivalent_strings.cpp" />
     <ClCompile Include="invert_binary_tree.cpp" />
     <ClCompile Include="island_perimeter.cpp" />
     <ClCompile Include="jewels_and_stones.cpp" />

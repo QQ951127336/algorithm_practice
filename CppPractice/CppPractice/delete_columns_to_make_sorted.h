@@ -4,5 +4,5 @@
 using namespace std;
 class Solution {
 public:
-	int minDeletionSize(vector<string>& A) {}
+	int minDeletionSize(vector<string>& A);
 };

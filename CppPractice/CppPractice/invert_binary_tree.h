@@ -10,5 +10,5 @@ struct TreeNode {
 };
 class Solution {
 public:
-	TreeNode* invertTree(TreeNode* root) {}
+	TreeNode* invertTree(TreeNode* root);
 };

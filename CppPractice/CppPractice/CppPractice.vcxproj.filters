@@ -116,5 +116,8 @@
     <ClCompile Include="island_perimeter.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="groups_of_special_equivalent_strings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
