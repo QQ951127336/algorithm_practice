@@ -151,16 +151,46 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="convert_sorted_array_to_binary_search_tree.h" />
+    <ClInclude Include="delete_columns_to_make_sorted.h" />
+    <ClInclude Include="delete_node_in_a_linked_list.h" />
+    <ClInclude Include="di_string_match.h" />
+    <ClInclude Include="flippingAnImage.h" />
+    <ClInclude Include="invert_binary_tree.h" />
+    <ClInclude Include="jewels_and_stones.h" />
+    <ClInclude Include="leftsum.h" />
+    <ClInclude Include="merge_two_binary_trees.h" />
+    <ClInclude Include="nim_game.h" />
+    <ClInclude Include="number_of_recent_calls.h" />
+    <ClInclude Include="n_ary_tree_postorder_traversal.h" />
+    <ClInclude Include="n_ary_tree_preorder_traversal.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="reverse_integer.h" />
+    <ClInclude Include="reverse_string.h" />
+    <ClInclude Include="sort_array_by_party_ii.h" />
+    <ClInclude Include="squares_of_sorted_array.h" />
+    <ClInclude Include="subdomain_visit_count.h" />
+    <ClInclude Include="to_lower_case.h" />
+    <ClInclude Include="trim_a_binary_search_tree.h" />
+    <ClInclude Include="unique_morse_code_words.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CppPractice.cpp" />
+    <ClCompile Include="delete_colimns_to_make_sorted.cpp" />
+    <ClCompile Include="di_string_match.cpp" />
+    <ClCompile Include="find_common_characters.cpp" />
+    <ClCompile Include="invert_binary_tree.cpp" />
+    <ClCompile Include="island_perimeter.cpp" />
+    <ClCompile Include="jewels_and_stones.cpp" />
+    <ClCompile Include="number_of_lines_to_write_string.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="single_number.cpp" />
+    <ClCompile Include="unique_morse_code_words.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
