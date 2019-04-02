@@ -3,7 +3,7 @@
 
 
 #include <iostream>
-
+#include <math.h>
 #include <algorithm>
 
 
@@ -13,9 +13,19 @@ using namespace std;
 
 int main()
 {
-
-	int x[] = { 1,2,3,4 };
-
-    std::cout << "Hello World!\n"; 
+	for (int i = 2; i <= 100; i++) {
+		bool right = true;
+		double limit = sqrt(i);
+	
+		for (int j = 2; j <= limit || abs(limit - j) <0.000001; j++) {
+			if (i%j == 0) {
+				right = false;
+				break;
+			}
+		}
+		if (right) {
+			cout << i << ",";
+		}
+	}
 }
 
