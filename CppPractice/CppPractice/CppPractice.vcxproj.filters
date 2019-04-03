@@ -119,5 +119,8 @@
     <ClCompile Include="groups_of_special_equivalent_strings.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="lowest_common_ancestor_of_a_binary_search_tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
