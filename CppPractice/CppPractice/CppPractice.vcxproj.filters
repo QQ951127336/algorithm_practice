@@ -122,5 +122,8 @@
     <ClCompile Include="lowest_common_ancestor_of_a_binary_search_tree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="find_the_difference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
