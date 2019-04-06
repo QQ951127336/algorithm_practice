@@ -125,5 +125,8 @@
     <ClCompile Include="find_the_difference.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="design_hashmap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

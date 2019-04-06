@@ -177,6 +177,7 @@
   <ItemGroup>
     <ClCompile Include="CppPractice.cpp" />
     <ClCompile Include="delete_colimns_to_make_sorted.cpp" />
+    <ClCompile Include="design_hashmap.cpp" />
     <ClCompile Include="di_string_match.cpp" />
     <ClCompile Include="find_common_characters.cpp" />
     <ClCompile Include="find_the_difference.cpp" />
