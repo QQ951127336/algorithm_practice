@@ -128,5 +128,8 @@
     <ClCompile Include="design_hashmap.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="number_of_boomerangs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
