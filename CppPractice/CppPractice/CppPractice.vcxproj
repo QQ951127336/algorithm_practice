@@ -183,6 +183,7 @@
     <ClCompile Include="find_the_difference.cpp" />
     <ClCompile Include="flood_fill.cpp" />
     <ClCompile Include="groups_of_special_equivalent_strings.cpp" />
+    <ClCompile Include="image_smoother.cpp" />
     <ClCompile Include="invert_binary_tree.cpp" />
     <ClCompile Include="island_perimeter.cpp" />
     <ClCompile Include="jewels_and_stones.cpp" />

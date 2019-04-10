@@ -137,5 +137,8 @@
     <ClCompile Include="flood_fill.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="image_smoother.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
