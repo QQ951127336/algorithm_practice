@@ -197,6 +197,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="second_minimum_node_in_a_binary_tree.cpp" />
     <ClCompile Include="single_number.cpp" />
     <ClCompile Include="unique_morse_code_words.cpp" />
   </ItemGroup>
