@@ -143,5 +143,8 @@
     <ClCompile Include="second_minimum_node_in_a_binary_tree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="cousins_in_binary_tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
