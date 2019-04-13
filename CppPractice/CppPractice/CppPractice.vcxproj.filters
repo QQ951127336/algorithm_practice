@@ -146,5 +146,8 @@
     <ClCompile Include="cousins_in_binary_tree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="construct_the_rectangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
