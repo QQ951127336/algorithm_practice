@@ -149,5 +149,8 @@
     <ClCompile Include="construct_the_rectangle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="power_of_two.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
