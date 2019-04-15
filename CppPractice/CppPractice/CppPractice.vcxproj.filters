@@ -152,5 +152,8 @@
     <ClCompile Include="power_of_two.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="longest_word_in_dictionary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

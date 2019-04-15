@@ -190,6 +190,7 @@
     <ClCompile Include="island_perimeter.cpp" />
     <ClCompile Include="jewels_and_stones.cpp" />
     <ClCompile Include="letter_case_permutatio.cpp" />
+    <ClCompile Include="longest_word_in_dictionary.cpp" />
     <ClCompile Include="lowest_common_ancestor_of_a_binary_search_tree.cpp" />
     <ClCompile Include="number_of_boomerangs.cpp" />
     <ClCompile Include="number_of_lines_to_write_string.cpp" />
