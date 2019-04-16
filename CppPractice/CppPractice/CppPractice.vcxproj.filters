@@ -155,5 +155,8 @@
     <ClCompile Include="longest_word_in_dictionary.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="partition_array_into_three_parts_with_equal_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -194,6 +194,7 @@
     <ClCompile Include="lowest_common_ancestor_of_a_binary_search_tree.cpp" />
     <ClCompile Include="number_of_boomerangs.cpp" />
     <ClCompile Include="number_of_lines_to_write_string.cpp" />
+    <ClCompile Include="partition_array_into_three_parts_with_equal_sum.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
