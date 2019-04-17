@@ -158,5 +158,8 @@
     <ClCompile Include="partition_array_into_three_parts_with_equal_sum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="min_cost_climbing_stairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
