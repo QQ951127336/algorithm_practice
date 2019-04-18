@@ -7,33 +7,33 @@ using namespace std;
       ListNode(int x) : val(x), next(NULL) {}
  };
  
-class Solution {
-public:
-	ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-		map<int, bool > save;
-		while (headA != NULL || headB != NULL) {
-			if (headA != NULL) {
-				int val = headA->val;
-				if (save.count(val)) {
-					return headA;
-				}
-				else {
-					save[val] = true;
-					headA = headA->next;
-				}
-			}
-			if (headB != NULL) {
-				int val = headB->val;
-				if (save.count(val)) {
-					return headB;
-				}
-				else {
-					save[val] = true;
-					headB = headB->next;
-				}
-			}
+  class Solution {
+  public:
+	  ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+		  map<ListNode*, bool > save;
+		  while (headA != NULL || headB != NULL) {
+			  if (headA != NULL) {
+				  int val = headA->val;
+				  if (save.count(headA)) {
+					  return headA;
+				  }
+				  else {
+					  save[headA] = true;
+					  headA = headA->next;
+				  }
+			  }
+			  if (headB != NULL) {
+				  int val = headB->val;
+				  if (save.count(headB)) {
+					  return headB;
+				  }
+				  else {
+					  save[headB] = true;
+					  headB = headB->next;
+				  }
+			  }
 
-		}
-		return NULL;
-	}
-};
+		  }
+		  return NULL;
+	  }
+  };
