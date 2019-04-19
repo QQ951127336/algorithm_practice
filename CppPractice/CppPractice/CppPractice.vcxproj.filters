@@ -164,5 +164,14 @@
     <ClCompile Include="quad_tree_intersection.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="intersection_of_two_linked_lists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find_mode_in_binary_search_tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sum-of-square-numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

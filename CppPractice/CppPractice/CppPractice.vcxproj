@@ -182,10 +182,12 @@
     <ClCompile Include="design_hashmap.cpp" />
     <ClCompile Include="di_string_match.cpp" />
     <ClCompile Include="find_common_characters.cpp" />
+    <ClCompile Include="find_mode_in_binary_search_tree.cpp" />
     <ClCompile Include="find_the_difference.cpp" />
     <ClCompile Include="flood_fill.cpp" />
     <ClCompile Include="groups_of_special_equivalent_strings.cpp" />
     <ClCompile Include="image_smoother.cpp" />
+    <ClCompile Include="intersection_of_two_linked_lists.cpp" />
     <ClCompile Include="invert_binary_tree.cpp" />
     <ClCompile Include="island_perimeter.cpp" />
     <ClCompile Include="jewels_and_stones.cpp" />
@@ -206,6 +208,7 @@
     <ClCompile Include="quad_tree_intersection.cpp" />
     <ClCompile Include="second_minimum_node_in_a_binary_tree.cpp" />
     <ClCompile Include="single_number.cpp" />
+    <ClCompile Include="sum-of-square-numbers.cpp" />
     <ClCompile Include="unique_morse_code_words.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
