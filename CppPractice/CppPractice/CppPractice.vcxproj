@@ -187,6 +187,7 @@
     <ClCompile Include="flood_fill.cpp" />
     <ClCompile Include="groups_of_special_equivalent_strings.cpp" />
     <ClCompile Include="image_smoother.cpp" />
+    <ClCompile Include="intersection_of_two_arrays_ii.cpp" />
     <ClCompile Include="intersection_of_two_linked_lists.cpp" />
     <ClCompile Include="invert_binary_tree.cpp" />
     <ClCompile Include="island_perimeter.cpp" />
