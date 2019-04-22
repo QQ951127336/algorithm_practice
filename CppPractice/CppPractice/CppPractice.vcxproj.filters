@@ -176,5 +176,8 @@
     <ClCompile Include="intersection_of_two_arrays_ii.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="remove_linked_list_elements.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

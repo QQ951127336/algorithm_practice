@@ -207,6 +207,7 @@
     </ClCompile>
     <ClCompile Include="power_of_two.cpp" />
     <ClCompile Include="quad_tree_intersection.cpp" />
+    <ClCompile Include="remove_linked_list_elements.cpp" />
     <ClCompile Include="second_minimum_node_in_a_binary_tree.cpp" />
     <ClCompile Include="single_number.cpp" />
     <ClCompile Include="sum-of-square-numbers.cpp" />
