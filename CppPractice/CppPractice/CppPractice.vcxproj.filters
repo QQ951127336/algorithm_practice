@@ -179,5 +179,11 @@
     <ClCompile Include="remove_linked_list_elements.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="valid_perfect_square.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="subtree_of_another_tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
