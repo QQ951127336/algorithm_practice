@@ -185,5 +185,14 @@
     <ClCompile Include="subtree_of_another_tree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="repeated_substring_pattern.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="house_robber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pairs_of_songs_with_total_durations_divisible_by_sixty.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
