@@ -194,5 +194,11 @@
     <ClCompile Include="pairs_of_songs_with_total_durations_divisible_by_sixty.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="reverr_bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="valid_palindrome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

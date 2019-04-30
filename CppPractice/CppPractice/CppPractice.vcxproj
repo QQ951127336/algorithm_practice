@@ -211,11 +211,13 @@
     <ClCompile Include="quad_tree_intersection.cpp" />
     <ClCompile Include="remove_linked_list_elements.cpp" />
     <ClCompile Include="repeated_substring_pattern.cpp" />
+    <ClCompile Include="reverr_bits.cpp" />
     <ClCompile Include="second_minimum_node_in_a_binary_tree.cpp" />
     <ClCompile Include="single_number.cpp" />
     <ClCompile Include="subtree_of_another_tree.cpp" />
     <ClCompile Include="sum-of-square-numbers.cpp" />
     <ClCompile Include="unique_morse_code_words.cpp" />
+    <ClCompile Include="valid_palindrome.cpp" />
     <ClCompile Include="valid_perfect_square.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
