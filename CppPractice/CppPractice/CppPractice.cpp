@@ -3,29 +3,17 @@
 
 
 #include <iostream>
-#include <math.h>
+#include <cmath>
 #include <algorithm>
-
-
+#include <string>
+#include <vector>
 using namespace std;
 
 
 
 int main()
 {
-	for (int i = 2; i <= 100; i++) {
-		bool right = true;
-		double limit = sqrt(i);
-	
-		for (int j = 2; j <= limit || abs(limit - j) <0.000001; j++) {
-			if (i%j == 0) {
-				right = false;
-				break;
-			}
-		}
-		if (right) {
-			cout << i << ",";
-		}
-	}
+	vector<int> v(10);
+	cout << v[1] << endl;
 }
 

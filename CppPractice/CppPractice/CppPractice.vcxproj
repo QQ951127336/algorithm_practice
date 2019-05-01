@@ -193,7 +193,9 @@
     <ClCompile Include="invert_binary_tree.cpp" />
     <ClCompile Include="island_perimeter.cpp" />
     <ClCompile Include="jewels_and_stones.cpp" />
+    <ClCompile Include="largest_number_at_least_twice_of_others.cpp" />
     <ClCompile Include="letter_case_permutatio.cpp" />
+    <ClCompile Include="linked_list_cycle.cpp" />
     <ClCompile Include="longest_word_in_dictionary.cpp" />
     <ClCompile Include="lowest_common_ancestor_of_a_binary_search_tree.cpp" />
     <ClCompile Include="min_cost_climbing_stairs.cpp" />
@@ -207,8 +209,10 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="plus_one.cpp" />
     <ClCompile Include="power_of_two.cpp" />
     <ClCompile Include="quad_tree_intersection.cpp" />
+    <ClCompile Include="range_sum_of_bst.cpp" />
     <ClCompile Include="remove_linked_list_elements.cpp" />
     <ClCompile Include="repeated_substring_pattern.cpp" />
     <ClCompile Include="reverr_bits.cpp" />

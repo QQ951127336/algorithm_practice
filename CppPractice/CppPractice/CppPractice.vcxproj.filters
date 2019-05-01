@@ -200,5 +200,17 @@
     <ClCompile Include="valid_palindrome.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="largest_number_at_least_twice_of_others.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="linked_list_cycle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="plus_one.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="range_sum_of_bst.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

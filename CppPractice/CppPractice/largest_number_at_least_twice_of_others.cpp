@@ -5,6 +5,7 @@ using namespace std;
 class Solution {
 public:
 	int dominantIndex(vector<int>& nums) {
+	
 		long long first = INT_MIN, second = INT_MIN;
 		int index = -1;
 		int count = 0;
