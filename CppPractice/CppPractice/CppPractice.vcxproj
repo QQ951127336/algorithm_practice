@@ -176,16 +176,20 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="arranging_coings.cpp" />
+    <ClCompile Include="binary_prefix_divisible_by.cpp" />
     <ClCompile Include="construct_the_rectangle.cpp" />
+    <ClCompile Include="contains_duplicate_ii.cpp" />
     <ClCompile Include="cousins_in_binary_tree.cpp" />
     <ClCompile Include="CppPractice.cpp" />
     <ClCompile Include="delete_colimns_to_make_sorted.cpp" />
     <ClCompile Include="design_hashmap.cpp" />
     <ClCompile Include="di_string_match.cpp" />
+    <ClCompile Include="excel_sheet_column_title.cpp" />
     <ClCompile Include="factorial_trailing_zeroes.cpp" />
     <ClCompile Include="find_all_anagrams_in_a_string.cpp" />
     <ClCompile Include="find_common_characters.cpp" />
     <ClCompile Include="find_mode_in_binary_search_tree.cpp" />
+    <ClCompile Include="find_pivot_index.cpp" />
     <ClCompile Include="find_the_difference.cpp" />
     <ClCompile Include="first_unique_character_in_a_string.cpp" />
     <ClCompile Include="flood_fill.cpp" />
@@ -200,14 +204,19 @@
     <ClCompile Include="island_perimeter.cpp" />
     <ClCompile Include="jewels_and_stones.cpp" />
     <ClCompile Include="kth_largext_element_in_a_stream.cpp" />
+    <ClCompile Include="k_diff_pairs_in_an_array.cpp" />
     <ClCompile Include="largest_number_at_least_twice_of_others.cpp" />
     <ClCompile Include="letter_case_permutatio.cpp" />
     <ClCompile Include="linked_list_cycle.cpp" />
+    <ClCompile Include="longest_common_prefix.cpp" />
+    <ClCompile Include="longest_univalue_path.cpp" />
     <ClCompile Include="longest_word_in_dictionary.cpp" />
     <ClCompile Include="lowest_common_ancestor_of_a_binary_search_tree.cpp" />
     <ClCompile Include="maximize_distance_to_closest_person.cpp" />
+    <ClCompile Include="maximum_average_subarray_i.cpp" />
     <ClCompile Include="minimum_depth_of_binary_tree.cpp" />
     <ClCompile Include="min_cost_climbing_stairs.cpp" />
+    <ClCompile Include="most_common_word.cpp" />
     <ClCompile Include="number_of_boomerangs.cpp" />
     <ClCompile Include="number_of_lines_to_write_string.cpp" />
     <ClCompile Include="pairs_of_songs_with_total_durations_divisible_by_sixty.cpp" />
@@ -218,6 +227,7 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="perfect_number.cpp" />
     <ClCompile Include="plus_one.cpp" />
     <ClCompile Include="powerful_integers.cpp" />
     <ClCompile Include="power_of_two.cpp" />
@@ -230,11 +240,14 @@
     <ClCompile Include="rotate_array.cpp" />
     <ClCompile Include="second_minimum_node_in_a_binary_tree.cpp" />
     <ClCompile Include="set_mismatch.cpp" />
+    <ClCompile Include="shortest_unsorted_continuous_subarray.cpp" />
     <ClCompile Include="single_number.cpp" />
     <ClCompile Include="sqrtx.cpp" />
+    <ClCompile Include="string_compression.cpp" />
     <ClCompile Include="subtree_of_another_tree.cpp" />
     <ClCompile Include="sum-of-square-numbers.cpp" />
     <ClCompile Include="unique_morse_code_words.cpp" />
+    <ClCompile Include="valide_mountain_array.cpp" />
     <ClCompile Include="valid_palindrome.cpp" />
     <ClCompile Include="valid_parentheses.cpp" />
     <ClCompile Include="valid_perfect_square.cpp" />

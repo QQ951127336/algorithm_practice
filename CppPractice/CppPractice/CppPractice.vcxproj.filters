@@ -257,5 +257,44 @@
     <ClCompile Include="maximize_distance_to_closest_person.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="binary_prefix_divisible_by.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="find_pivot_index.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="perfect_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="contains_duplicate_ii.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="longest_univalue_path.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string_compression.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="most_common_word.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maximum_average_subarray_i.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="longest_common_prefix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="valide_mountain_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shortest_unsorted_continuous_subarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="excel_sheet_column_title.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="k_diff_pairs_in_an_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
