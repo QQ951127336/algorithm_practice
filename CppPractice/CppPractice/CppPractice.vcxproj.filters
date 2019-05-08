@@ -296,5 +296,8 @@
     <ClCompile Include="k_diff_pairs_in_an_array.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="nth_digit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

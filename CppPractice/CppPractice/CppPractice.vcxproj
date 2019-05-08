@@ -217,6 +217,7 @@
     <ClCompile Include="minimum_depth_of_binary_tree.cpp" />
     <ClCompile Include="min_cost_climbing_stairs.cpp" />
     <ClCompile Include="most_common_word.cpp" />
+    <ClCompile Include="nth_digit.cpp" />
     <ClCompile Include="number_of_boomerangs.cpp" />
     <ClCompile Include="number_of_lines_to_write_string.cpp" />
     <ClCompile Include="pairs_of_songs_with_total_durations_divisible_by_sixty.cpp" />
