@@ -212,6 +212,7 @@
     <ClCompile Include="longest_univalue_path.cpp" />
     <ClCompile Include="longest_word_in_dictionary.cpp" />
     <ClCompile Include="lowest_common_ancestor_of_a_binary_search_tree.cpp" />
+    <ClCompile Include="magic_squares_in_grid.cpp" />
     <ClCompile Include="maximize_distance_to_closest_person.cpp" />
     <ClCompile Include="maximum_average_subarray_i.cpp" />
     <ClCompile Include="minimum_depth_of_binary_tree.cpp" />
