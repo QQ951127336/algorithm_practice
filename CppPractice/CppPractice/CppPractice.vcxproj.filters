@@ -302,5 +302,8 @@
     <ClCompile Include="magic_squares_in_grid.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="repeated_string_match.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

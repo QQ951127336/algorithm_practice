@@ -237,6 +237,7 @@
     <ClCompile Include="range_sum_of_bst.cpp" />
     <ClCompile Include="reach_a_number.cpp" />
     <ClCompile Include="remove_linked_list_elements.cpp" />
+    <ClCompile Include="repeated_string_match.cpp" />
     <ClCompile Include="repeated_substring_pattern.cpp" />
     <ClCompile Include="reverr_bits.cpp" />
     <ClCompile Include="rotate_array.cpp" />
